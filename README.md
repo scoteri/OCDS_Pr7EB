@@ -15,4 +15,4 @@ Au sein d'une société financière, vous allez développer et implémenter un m
 - Présenter son travail de modélisation à l'oral
 - Déployer un modèle via une API dans le Web
 - Utiliser un logiciel de version de code pour assurer l’intégration du modèle
-# OCDS_Pr7EB
+# Implement a scoring model
